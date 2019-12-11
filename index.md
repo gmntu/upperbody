@@ -18,3 +18,10 @@ The red spike in phase fluctuation indicates a hesitation in the movement.
 The spikes in reconstruction detects weird trajectory of the wirst
 
 
+<!-- Authors -->
+## Authors
+
+* [koonyook](https://github.com/koonyook)
+* [gmntu](https://github.com/gmntu)
+
+
